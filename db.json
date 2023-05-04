@@ -1,6 +1,91 @@
 {
-
-"products":[],
+  "quiz": [
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In the &quot;Shrek&quot; film franchise, Donkey is played by Eddie Murphy.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the name of the hero in the 80s animated video game &#039;Dragon&#039;s Lair&#039;?",
+      "correct_answer": "Dirk the Daring",
+      "incorrect_answers": ["Arthur", "Sir Toby Belch", "Guy of Gisbourne"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "&quot;Metal Gear Solid 3: Snake Eater&quot; takes place on Shadow Moses Island.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the first female protagonist in a video game?",
+      "correct_answer": "Samus Aran",
+      "incorrect_answers": ["Lara Croft", "Alis Landale", "Chell"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a real song from the band Thousand Foot Krutch?",
+      "correct_answer": "Limitless Fury",
+      "incorrect_answers": ["Let The Sparks Fly", "Down", "Give Up The Ghost"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which character, in the game &quot;Morenatsu&quot;, has the most possible endings to their route, at a total of four different endings?",
+      "correct_answer": "Shin Kuroi",
+      "incorrect_answers": [
+        "Kouya Aotsuki",
+        "Soutarou Touno",
+        "Torahiko Ooshima"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What level do you have to be to get a service medal on CS:GO?",
+      "correct_answer": "40",
+      "incorrect_answers": ["50", "30", "20"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of Joel&#039;s daughter in the game, &quot;The Last of Us&quot;? ",
+      "correct_answer": "Sarah",
+      "incorrect_answers": ["Ellie", "Tess", "Marlene"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Crypt of the NecroDancer (2015) character has a soundtrack by Jake &quot;Virt&quot; Kaufman?",
+      "correct_answer": "Uncle Eli",
+      "incorrect_answers": ["Cadence", "Nocturna", "Octavian (Bard)"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+      "correct_answer": "James Rodr&iacute;guez",
+      "incorrect_answers": ["Thomas M&uuml;ller", "Lionel Messi", "Neymar"]
+    }
+  ],
+  "products": [],
 
   "cars": [
     {
